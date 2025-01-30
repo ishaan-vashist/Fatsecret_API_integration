@@ -108,5 +108,5 @@ http://127.0.0.1:8000/search_food?query=apple
 - Deploy on **Cloud (AWS/GCP)** for public access
 
 ## Author
-Developed by **[Ishaan Vashist]**  
+Developed by **Ishaan Vashist**  
 Contact: [Ishaan](mailto:ishaanvashista@gmail.com)  
